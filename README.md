@@ -10,5 +10,12 @@ You don't need any other requisites in order to run the app.
 2 Run index.html -found inside '/www'- in any web browser.
 3 Enjoy!
 ```
+
 ### Contribute
 Feel free to make pull requests with further development.
+
+### Bugs/Defects
+The game is in a prototype stage but bugs can still be recorded in the [Issues](https://github.com/iulianoana/JoeTreasure/issues) section. Don't forget to label them as bugs.
+
+## License
+This is an open source project [MIT](https://choosealicense.com/licenses/mit/) licensed.
