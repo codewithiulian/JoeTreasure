@@ -18,4 +18,4 @@ Feel free to make pull requests with further development.
 The game is in a prototype stage but bugs can still be recorded in the [Issues](https://github.com/iulianoana/JoeTreasure/issues) section. Don't forget to label them as bugs.
 
 ## License
-This is an open source project [MIT](https://choosealicense.com/licenses/mit/) licensed.
+This is an open source project [MIT](https://github.com/iulianoana/JSDev/blob/master/LICENSE) licensed.
